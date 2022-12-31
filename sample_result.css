@@ -1,0 +1,9 @@
+.circle_icon {
+  width: 69px;
+  height: 69px;
+  -webkit-mask-image: var(--circle);
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-size: contain;
+  -webkit-mask-position: center;
+  background-color: #637dff; /* 'background-color' is actually the color of your svg */
+}
